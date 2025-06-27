@@ -1,8 +1,5 @@
-<p align="center">
-    Hello World!
-</p>
+## Hello World!
 
-<hr>
 
 <p align="left">
     <picture>
