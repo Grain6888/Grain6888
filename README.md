@@ -1,6 +1,3 @@
-## Profile
-
-
 <p align="left">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="output/details.svg" width="100%"/>
