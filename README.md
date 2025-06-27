@@ -1,3 +1,15 @@
 ## Profile
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Grain6888&layout=compact&border_radius=0.0)
+
+<p align="left">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="output/metrics.base.svg" width="400" />
+	    <source media="(prefers-color-scheme: light)" srcset="output/metrics.base.svg" width="400" />
+        <img alt="github profile contributions chart" src="https://raw.githubusercontent.com/Grain6888/Grain6888/output-3d-contrib/day.svg"/>
+    </picture>
+    <picture>
+   	    <source media="(prefers-color-scheme: dark)" srcset="output/details.svg" width="400"/>
+        <source media="(prefers-color-scheme: light)" srcset="output/details.svg" width="400"/>
+        <img alt="github profile contributions chart" src="https://raw.githubusercontent.com/Grain6888/Grain6888/output-3d-contrib/day.svg"/>
+    </picture>
+</p>
