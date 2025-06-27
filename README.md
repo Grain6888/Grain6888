@@ -1,5 +1,8 @@
-## 二んにさは，世界！
-
+<h2>
+    <font face="yu mincho">
+    こんにさは，世界！
+    </font>
+</h2>
 
 <p align="left">
     <picture>
@@ -9,11 +12,17 @@
     </picture>
 </p>
 
-## 二れは素晴らレいてず．私が使ラ！
+<h2>
+    <font face="yu mincho">
+    これは素晴らレいてず．私が使ラ！
+    </font>
+</h2>
 
-
-### プロゲうシソゲ言语
-
+<h3>
+    <font face="yu mincho">
+    プロゲうシソゲ言语
+    </font>
+</h3>
 
 <p align="left">
     <img alt="language" src="https://skillicons.dev/icons?theme=dark&perline=10&i=c"/>
@@ -27,16 +36,22 @@
     <img alt="language" src="https://skillicons.dev/icons?theme=dark&perline=10&i=py"/>
 </p>
 
-### つし一ムワ一ケ
-
+<h3>
+    <font face="yu mincho">
+    つし一ムワ一ケ
+    </font>
+</h3>
 
 <p align="left">
     <img alt="language" src="https://skillicons.dev/icons?theme=dark&perline=10&i=flask"/>
     <img alt="language" src="https://skillicons.dev/icons?theme=dark&perline=10&i=laravel,"/>
 </p>
 
-### 开発环境
-
+<h3>
+    <font face="yu mincho">
+    开発环境
+    </font>
+</h3>
 
 <p align="left">
     <img alt="language" src="https://skillicons.dev/icons?theme=dark&perline=10&i=docker"/>
