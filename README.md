@@ -1,4 +1,4 @@
-## Hello World!
+## 二んにさは，世界！
 
 
 <p align="left">
@@ -9,29 +9,9 @@
     </picture>
 </p>
 
-<hr>
-
-<p align="left">
-    Programming Languages
-</p>
+## 二れは素晴らレいてず．私が使ラ！
 <p align="left">
     <img alt="language" src="https://skillicons.dev/icons?theme=dark&perline=10&i=c,cs,cpp,js,powershell,py,"/>
-</p>
-
-<hr>
-
-<p align="left">
-    Web
-</p>
-<p align="left">
     <img alt="language" src="https://skillicons.dev/icons?theme=dark&perline=10&i=css,html,md,flask,laravel,"/>
-</p>
-
-<hr>
-
-<p align="left">
-    DevOps
-</p>
-<p align="left">
     <img alt="language" src="https://skillicons.dev/icons?theme=dark&perline=10&i=docker,github,ubuntu,unity,visualstudio,vscode,windows"/>
 </p>
