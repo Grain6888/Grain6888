@@ -9,8 +9,8 @@
 </p>
 
 
-## 諸悪の根源
+## 諸悪の根源．
 
-<p align="center">
-    <img alt="language" src="https://skillicons.dev/icons?theme=light&perline=10&i=unity" width="50%"/>
+<p align="left">
+    <img alt="language" src="https://skillicons.dev/icons?theme=light&perline=10&i=unity" width="100%"/>
 </p>
