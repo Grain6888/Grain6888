@@ -11,6 +11,11 @@
 
 ## 諸悪の根源．
 
-<p align="left">
-    <img alt="language" src="https://skillicons.dev/icons?theme=light&perline=10&i=unity" width="100%"/>
+<p align="center">
+    <a href="https://www.meta.com/jp/quest/quest-3/">
+        <picture>
+            <source srcset="images/MetaQuest3.webp" type="image/webp" width="50%">
+            <img src="MetaQuest3.jpg" width="50%">
+        </picture>
+    </a>
 </p>
