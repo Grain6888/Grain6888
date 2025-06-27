@@ -28,3 +28,4 @@ jobs:
           tex, less, qmake, lex, gnuplot
         plugin_languages_details: bytes-size, percentage
         plugin_languages_limit: 8
+        plugin_followup: no
