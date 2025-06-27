@@ -1,7 +1,13 @@
+<head>
+    <style>
+        h2, h3{
+            font-family: "yu mincho";
+        }
+    </style>
+</head>
+
 <h2>
-    <font face="yu mincho">
     こんにさは，世界！
-    </font>
 </h2>
 
 <p align="left">
@@ -13,15 +19,11 @@
 </p>
 
 <h2>
-    <font face="yu mincho">
     これは素晴らレいてず．私が使ラ！
-    </font>
 </h2>
 
 <h3>
-    <font face="yu mincho">
     プロゲうシソゲ言语
-    </font>
 </h3>
 
 <p align="left">
@@ -37,9 +39,7 @@
 </p>
 
 <h3>
-    <font face="yu mincho">
     つし一ムワ一ケ
-    </font>
 </h3>
 
 <p align="left">
@@ -48,9 +48,7 @@
 </p>
 
 <h3>
-    <font face="yu mincho">
     开発环境
-    </font>
 </h3>
 
 <p align="left">
