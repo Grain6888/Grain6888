@@ -16,14 +16,6 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-    - name: Commit calendar
-      uses: lowlighter/metrics@latest
-      with:
-        filename: output/calendar.svg
-        token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
-        base: ""
-        plugin_calendar: yes
-        plugin_calendar_limit: 3
     - name: Most used (with details)
       uses: lowlighter/metrics@latest
       with:
@@ -36,3 +28,5 @@ jobs:
         plugin_languages_details: bytes-size, percentage
         plugin_languages_limit: 0
         plugin_followup: no
+        plugin_calendar: yes
+        plugin_calendar_limit: 3
