@@ -1,15 +1,23 @@
 ## おやすみ，世界．
 
-<p align="left">
+<p align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="output/details.svg" width="500px"/>
-        <source media="(prefers-color-scheme: light)" srcset="output/details.svg" width="500px"/>
+        <source media="(prefers-color-scheme: dark)" srcset="output/calendar.svg" width="50%"/>
+        <source media="(prefers-color-scheme: light)" srcset="output/calendar.svg" width="50%"/>
+        <img alt="github profile contributions chart" src="https://raw.githubusercontent.com/Grain6888/Grain6888/output-3d-contrib/day.svg"/>
+    </picture>
+</p>
+
+<p align="center">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="output/details.svg" width="50%"/>
+        <source media="(prefers-color-scheme: light)" srcset="output/details.svg" width="50%"/>
         <img alt="github profile contributions chart" src="https://raw.githubusercontent.com/Grain6888/Grain6888/output-3d-contrib/day.svg"/>
     </picture>
 </p>
 
 
-## 諸悪の根源．
+## やめようね．
 
 <p align="center">
     <a href="https://www.meta.com/jp/quest/quest-3/">
