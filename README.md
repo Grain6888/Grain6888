@@ -1,4 +1,4 @@
-## 進捗どうですか
+## Borderless Journey
 
 <p align="center">
     <picture>
